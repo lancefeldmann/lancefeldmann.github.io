@@ -1,0 +1,27 @@
+body {
+  background-image: url("purplightin.gif");
+  font-family: 'Brush Script MT', cursive;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.dick {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 16%;
+}
+
+div.container {
+  text-align: center;
+}
+
+ul.myUL {
+  display: inline-block;
+  text-align: left;
+}
